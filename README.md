@@ -43,6 +43,7 @@ bash
 pip install -r requirements.txt
 
 git clone https://github.com/Developer1010x/Slideshow_python.git
+
 cd Slideshow_python
 
 python3 slideshow_app.py
@@ -73,6 +74,6 @@ Utility Commands
 
 'Quit application' - Close the application.
 'shutdown PC' - Shutdown the computer.
-Contributing
+
 
 If you'd like to contribute, please fork the repository, create a new branch, and submit a pull request. Feel free to open issues for any bugs or feature requests.
